@@ -1,0 +1,286 @@
+ID,name,role(s)
+0,trafigura group,"trader, lender"
+1,vitol asia,trader
+2,mercuria holdings,others
+3,gunvor singapore,trader
+4,louis dreyfus company asia,trader
+5,wilmar international,trader
+6,olam group,"trader, lender"
+7,cofco international singapore,trader
+8,cargill asia pacific holdings,trader
+9,glencore singapore,trader
+10,archer-daniels-midland singapore,
+11,bunge asia,trader
+12,marubeni corporation,trader
+13,mitsui & co,"trader, lender"
+14,ptt international trading,trader
+15,shell eastern trading,trader
+16,bp singapore,trader
+17,totalenergies trading asia,trader
+18,sinochem international oil,trader
+19,agrocorp international,trader
+20,golden agri international,trader
+21,musim mas holdings,trader
+22,first resources,trader
+23,aavanti industries,trader
+24,olam agri holdings,others
+25,gerald singapore,trader
+26,pacific basin sg,trader
+27,wilmar sugar,trader
+28,sahara energy international,trader
+29,socar trading singapore,trader
+30,wogen south east asia,trader
+31,traxys singapore,"trader, lender"
+32,trafigura carbon trading,trader
+33,ixm,trader
+34,aditya birla global trading,trader
+35,tata international singapore,trader
+36,vinmar overseas,trader
+37,helm asia,trader
+38,sino gas holdings,trader
+39,posco international singapore,trader
+40,oilmar sgp,trader
+41,nala renewables,trader
+42,straits energy resources bhd,trader
+43,indofood agri resources,trader
+44,adaro international,trader
+45,hg metal manufacturing,trader
+46,sd guthrie international,trader
+47,agrex asia,trader
+48,lx international,trader
+49,hyundai corporation singapore,trader
+50,woodside energy australia asia holdings,trader
+51,samsung c&t singapore,trader
+52,sinopec fuel oil,trader
+53,sojitz asia,trader
+54,sumitomo corporation asia & oceania,trader
+55,citic commodities,trader
+56,petrochina international,trader
+57,unipec singapore,trader
+58,sinopec international,trader
+59,sk energy international,trader
+60,itochu singapore,trader
+61,gs global singapore,trader
+62,cipta commodity trading,trader
+63,davis commodities,trader
+64,om materials,trader
+65,banpu minerals singapore,trader
+66,hd hyundai oil singapore,trader
+67,toyota tsusho asia pacific,trader
+68,chalco trading singapore,trader
+69,shell singapore,trader
+70,summit energy & resources,trader
+71,pertamina international marketing & distribution,trader
+72,idemitsu international,trader
+73,eneos oil & energy asia,trader
+74,cosmo oil international,trader
+75,jfe shoji corporation,trader
+76,century commodities solution,trader
+77,rawsteel minmetals,trader
+78,gce agri,trader
+79,dkc steel singapore,trader
+80,mri group,trader
+81,unifood international,trader
+82,noble resources international,trader
+83,cemcoa energy,trader
+84,interchem manufacturing,trader
+85,mitsubishi corporation rtm international,trader
+86,aaa oils & fats,trader
+87,triland metals singapore,trader
+88,ginga petroleum,trader
+89,concord energy,trader
+90,pacific minerals,trader
+91,trimex group,trader
+92,kz trading singapore,trader
+93,petraco oil company,trader
+94,the straits international,trader
+95,straits bunkering,trader
+96,pacific energy,trader
+97,quantum global,trader
+98,meridian equities,trader
+99,swan international holding,trader
+100,bary chemical,trader
+101,oriental energy,trader
+102,mahkota oils & fats,trader
+103,reed smith,lawyer
+104,holman fenwick willan hfw,lawyer
+105,clyde & co,lawyer
+106,stephenson harwood,lawyer
+107,watson farley & williams,lawyer
+108,ince & co singapore,lawyer
+109,norton rose fulbright,lawyer
+110,baker mckenzie,lawyer
+111,squire patton boggs,lawyer
+112,hill dickinson,lawyer
+113,mayer brown llp,lawyer
+114,latham & watkins llp,lawyer
+115,rajah & tann,lawyer
+116,allen & gledhill,lawyer
+117,drew & napier,lawyer
+118,wongpartnership,lawyer
+119,helmsman llc,lawyer
+120,blackstone & gold,lawyer
+121,braddell brothers llp,lawyer
+122,joseph tan jude benny llp,lawyer
+123,dentons rodyk & davidson llp,lawyer
+124,oon & bazul llc,lawyer
+125,pdlegal llc,lawyer
+126,shook lin & bok llp,lawyer
+127,tsmp law corporation,lawyer
+128,virtus law llp,lawyer
+129,dennismathiew,lawyer
+130,asialegal llc,lawyer
+131,christopher lau sc,lawyer
+132,dunbar & lim chambers llc,lawyer
+133,haridass ho & partners,lawyer
+134,gill arbitration services,lawyer
+135,pk wong & nair llc,lawyer
+136,providence law asia llc,lawyer
+137,lvm law chambers llc,lawyer
+138,incisive law llc,lawyer
+139,damodara ong llc,lawyer
+140,focus law asia llc,lawyer
+141,resource law llc,lawyer
+142,uniper global commodities se singapore branch,
+143,china merchants energy shipping holding singapore,others
+144,sinopec,trader
+145,trafigura maritime logistics,others
+146,bgn energy,trader
+147,mitsui & co energy trading singapore (mets),trader
+148,equatorial marine fuel management services,others
+149,ed&f man capital markets singapore,lender
+150,icici bank singapore branch,lender
+151,bw energy holdings,others
+152,hsbc singapore entities,lender
+153,glory bulk carriers,others
+154,tai chong cheang shipping singapore,others
+155,ocean network express,others
+156,sumifru singapore,trader
+157,sinopec international singapore,trader
+158,jsw international tradecorp,trader
+159,st telemedia global data centres,others
+160,bts tankers,others
+161,dbs bank,lender
+162,united overseas bank uob,lender
+163,oversea-chinese banking corporation ocbc,lender
+164,metro holdings,others
+165,razer,others
+166,first sponsor group,others
+167,avani resources,trader
+168,alvari,others
+169,bafco singapore,others
+170,the singapore medical council smc,others
+171,basf intertrade ag singapore branch,trader
+172,fti consulting singapore,others
+173,boustead projects,others
+174,thomson medical group tmg,others
+175,winson oil trading,trader
+176,standard chartered bank singapore scb,lender
+177,halcyon agri corporation,trader
+178,seraya energy,others
+179,kpmg,others
+180,mizuho bank,lender
+181,perennial real estate holdings,others
+182,ho lee construction,others
+183,westbridge ventures ii investment holdings,others
+184,atlantic navigation holdings singapore,others
+185,royal global exports,trader
+186,marina offshore,others
+187,maybank singapore,lender
+188,petrochina international singapore,trader
+189,pricewaterhousecoopers pwc singapore,others
+190,gtp advisory pac,others
+191,gp global apac,trader
+192,ms first capital insurance,others
+193,grabtaxi holdings,others
+194,cye,others
+195,argoglobal underwriting asia pacific,others
+196,china taiping insurance singapore,others
+197,great american insurance company,others
+198,qbe insurance singapore,others
+199,maersk tankers singapore,others
+200,ing,lender
+201,societe generale,lender
+202,bnp paribas,lender
+203,rabobank,lender
+204,standard chartered,lender
+205,mufg,lender
+206,smbc,lender
+207,credit agricole,lender
+208,hsbc,lender
+209,natixis,lender
+210,bank of china singapore branch,lender
+211,china construction bank singapore branch,lender
+212,icbc singapore branch,lender
+213,agricultural bank of china singapore branch,lender
+214,shanghai pudong development bank spdb singapore branch,lender
+215,mufg bank singapore branch,lender
+216,macquarie bank singapore branch,lender
+217,commonwealth bank of australia cba singapore branch,lender
+218,anz bank singapore branch,lender
+219,westpac banking corporation singapore branch,lender
+220,national australia bank nab singapore branch,lender
+221,cimb bank berhad singapore branch,lender
+222,malayan banking berhad singapore,lender
+223,rhb bank berhad singapore branch,lender
+224,bank of east asia bea singapore branch,lender
+225,state bank of india singapore branch,lender
+226,dz bank ag singapore branch,lender
+227,deutsche bank ag singapore branch,lender
+228,commerzbank ag singapore branch,lender
+229,citibank singapore,lender
+230,goldman sachs singapore branch,lender
+231,jpmorgan chase bank singapore branch,lender
+232,bbva singapore branch,lender
+233,bank of america singapore branch,lender
+234,ossiano,lender
+235,copap,lender
+236,tradeflow capital,lender
+237,mercore,lender
+238,audentia,lender
+239,ed&f man capital,lender
+240,czarnikow,lender
+241,sucden financial,lender
+242,drip capital,lender
+243,incomlend,lender
+244,gxs capital,lender
+245,fs capital,lender
+246,ifs capital,lender
+247,straits financial services,lender
+248,gb helios,lender
+249,nomura securities singapore,lender
+250,adm capital,lender
+251,hong leong finance,lender
+252,eastvine capital,lender
+253,sing investments & finance,lender
+254,zma smart capital,lender
+255,mufg trading singapore,lender
+256,orix leasing singapore,lender
+257,capital match platform,lender
+258,seatown holdings,lender
+259,modifi asia,lender
+260,stonex financial,lender
+261,horizon capital ag singapore rep,lender
+262,hartree partners singapore,lender
+263,freepoint commodities singapore,lender
+264,glencore,"trader, lender"
+265,gunvor group,"trader, lender"
+266,vitol group,"trader, lender"
+267,seatrium,others
+268,louis dreyfus company,"trader, lender"
+269,rio tinto,others
+270,cargill,"trader, lender"
+271,sinar mas group,others
+272,barramundi group,others
+273,cofco international,"trader, lender"
+274,bunge,"trader, lender"
+275,six one commodities,trader
+276,mercuria energy group,trader
+277,vale,others
+278,olam food ingredients,others
+279,trafigura beheer bv,others
+280,mercuria energy trading,trader
+281,the daily cut,others
+282,new novel engineering,others
+283,vyas engineering,others
+284,the prax group,trader
