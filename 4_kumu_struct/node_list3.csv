@@ -1,0 +1,69 @@
+Label,Type,Description,Financier Type,Commodity Type,Geographic Reach,Known Clients
+ing,lender,,Traditional Bank,"energy, hard/metals, soft/agricultural","EMEA, APAC, Americas","glencore, gunvor group, trafigura group, vitol group"
+societe generale,lender,,Traditional Bank,"energy, hard/metals, soft/agricultural","Primary base , North America, APAC, emerging markets",
+bnp paribas,lender,sep 2020: BNP Paribas Suisse discontinued financing commodity trading and announced restructuring affecting 120 employees in Geneva (perplexity),Traditional Bank,"energy, hard/metals, soft/agricultural","Europe , Americas , APAC, Africa. Global network spans over 100 countries",
+rabobank,lender,,Traditional Bank,"energy, hard/metals, soft/agricultural","EU, Americas, Asia, Africa, ~38 countries across Europe, North America, South America, Asia, Australia, New Zealand",
+standard chartered,lender,,Traditional Bank,"energy, hard/metals, soft/agricultural, emerging","Asia-Pacific , China & India , Africa , Middle East , Latin America, UK, US","glencore, marubeni corporation, seatrium, trafigura group"
+dbs bank,lender,,Traditional Bank,"energy, hard/metals, soft/agricultural","Southeast Asia , Greater China , South Asia , Australia, Europe , Africa, Middle East, Latin America","agrocorp international, louis dreyfus company, rio tinto, trafigura group, wilmar international"
+oversea-chinese banking corporation ocbc,lender,,Traditional Bank,"energy, hard/metals, soft/agricultural","Southeast Asia , Greater China , Asia , Europe, Australia, US",
+united overseas bank uob,lender,,Traditional Bank,"energy, hard/metals, soft/agricultural","Australia, brunei, canada, mainland china, france, hong kong, india, indonesia, japan, malaysia, myanmar, philippines, singapore, south korea, taiwan, thailand, uk, usa, vietnam","barramundi group, cargill, musim mas holdings, sinar mas group, wilmar international"
+mufg,lender,,Traditional Bank,"energy, hard/metals, soft/agricultural","~50 countries, ~3,000 locations globally; strong in Asia Pacific , EMEA , and North America","bunge, cofco international, gunvor group, mercuria, six one commodities, trafigura group"
+smbc,lender,SMBC remains fully active in commodity trade finance as of 2026,Traditional Bank,"energy, hard/metals, soft/agricultural","Japan , SEA, China, South Asia, Middle East, Africa, EU, North America, Latin America, Oceania","cofco international, gunvor group, louis dreyfus company, mercuria energy group, olam food ingredients, rio tinto, trafigura group, vale, vitol group, wilmar international"
+credit agricole,lender,,Traditional Bank,"energy, hard/metals, soft/agricultural","Switzerland/Western EU , Americas, APAC, SEA, Middle East, Greater China, Korea, Japan, Africa","cofco international, gunvor group, mercuria energy group, trafigura group, vitol group"
+hsbc,lender,,Traditional Bank,"energy, hard/metals, soft/agricultural","APAC, North America, Latin America, EMEA, MENAT, Sub-saharan africa","glencore, gunvor group, olam agri holdings, sinar mas group, vitol group"
+natixis,lender,,Traditional Bank,"energy, hard/metals, soft/agricultural","France / EU , Americas, APAC, Middle East / Africa","cofco international, gunvor group, trafigura group, vitol group"
+bank of china singapore branch,lender,,Traditional Bank,energy,"APAC, ASEAN",unipec singapore
+china construction bank singapore branch,lender,,Traditional Bank,others,"Singapore, China, South Asia, Southeast Asia",trafigura group
+icbc singapore branch,lender,,Traditional Bank,"energy, hard/metals",Global with Asia-Pacific focus,trafigura group
+agricultural bank of china singapore branch,lender,,Traditional Bank,"energy, hard/metals","SG, SEA",trafigura beheer bv
+shanghai pudong development bank spdb singapore branch,lender,,Traditional Bank,others,"SG, SEA",
+mufg bank singapore branch,lender,,Traditional Bank,"energy, hard/metals, soft/agricultural",Global with emerging markets focus,mercuria energy trading
+macquarie bank singapore branch,lender,,Traditional Bank,"energy, hard/metals",ASIA,
+commonwealth bank of australia cba singapore branch,lender,,Traditional Bank,emerging,APAC,
+anz bank singapore branch,lender,,Traditional Bank,"energy, hard/metals, soft/agricultural",global,
+westpac banking corporation singapore branch,lender,,Traditional Bank,"energy, hard/metals, soft/agricultural","Asia, New Zealand, Europe, North America, and the Pacific region",
+national australia bank nab singapore branch,lender,,Traditional Bank,others,"Asia , UK, and US, with Singapore serving as a preferred regional center after exiting Hong Kong",
+cimb bank berhad singapore branch,lender,,Traditional Bank,soft/agricultural,ASEAN,
+malayan banking berhad singapore,lender,,Traditional Bank,"energy, hard/metals, soft/agricultural","Malaysia, Singapore, Indonesia as home markets, plus Philippines, Brunei Darussalam, Vietnam, Cambodia, Thailand, Hong Kong SAR, China, Bahrain, Pakistan, Papua New Guinea, Uzbekistan, Saudi Arabia, UK, US, and India",
+rhb bank berhad singapore branch,lender,,Traditional Bank,others,"Malaysia, Singapore, Indonesia, Thailand, Cambodia, Vietnam, China, Myanmar, Brunei, Laos, Hong Kong, Pakistan, and the UK",
+bank of east asia bea singapore branch,lender,,Traditional Bank,"energy, hard/metals, soft/agricultural, petrochemicals","Greater China plus branches in New York, Los Angeles, Great Britain, Labuan, and Singapore",
+state bank of india singapore branch,lender,,Traditional Bank,"energy, hard/metals, soft/agricultural","SG, India",
+dz bank ag singapore branch,lender,,Traditional Bank,energy,"Southeast Asia, India, and the broader Asia/Pacific region, serving as a hub for German, Swiss, and Austrian corporates",
+deutsche bank ag singapore branch,lender,,Traditional Bank,"energy, hard/metals, emerging","ASIA, global",
+commerzbank ag singapore branch,lender,,Traditional Bank,Unknown,ASIA,
+citibank singapore,lender,,Traditional Bank,"energy, hard/metals","ASIA, ASEAN",
+goldman sachs singapore branch,lender,,Traditional Bank,"energy, hard/metals, soft/agricultural, emerging","APAC, China, SEA, AUS, NZ, New York, Houston, London, Singapore, and Tokyo",
+jpmorgan chase bank singapore branch,lender,,Traditional Bank,soft/agricultural,"APAC, SEA",
+bbva singapore branch,lender,,Traditional Bank,Unknown,"Asia, APAC, latin america, Spain, Mexico, South America, United States and Turkey",
+bank of america singapore branch,lender,,Traditional Bank,"energy, hard/metals","Asia, APAC",
+ossiano,lender,Ossiano Capital is developed by Copap to help companies get past the barriers of traditional finance and the complexities of cross-border trade.,Alternative Financier,"soft/agricultural, petrochemicals",Global,
+copap,lender,"a privately owned marketing and supply chain services company that provides products, services and solutions to facilitate global trade. provider of trade, credit, FX and logistical solutions. serviced over 1000 companies across 100+ countries. No sg office.",Alternative Financier,"soft/agricultural, petrochemicals",Global,
+tradeflow capital,lender,https://tradeflow.capital/,Alternative Financier,"energy, hard/metals, soft/agricultural","Global, 18+ countries served; particularly in developing-economy rural communities",
+mercore,lender,non‑bank financial institution providing global trade finance and receivables‑based solutions. https://www.mercore.com/,Alternative Financier,Unknown,"UK & EU, Africa",
+audentia,lender,an alternative credit fund co‑investing in trade‑finance assets alongside banks. no sg office. https://www.linkedin.com/company/audentia-capital-management-llp/,Alternative Financier,energy,Global,
+ed&f man capital,lender,ED&F Man expands its brokerage division by forming ED&F Man Capital Markets. Global financial brokerage/FCM. Provides trading‑related financing (margin and position funding) but no disclosed role as a working‑capital / trade‑finance lender to physical commodity traders. https://www.edfman.com/edf-man-capital-markets/,Alternative Financier,"energy, hard/metals, soft/agricultural","EMEA, North America, APAC, Middle East",
+czarnikow,lender,,Alternative Financier,Unknown,"Thailand, Mexico, Dubai, USA, China, Kenya, Vietnam, UK, Brazil, Philippines, SG, Colombia, Israel",
+sucden financial,lender,no sg office,Alternative Financier,"energy, hard/metals, soft/agricultural","london , hong kong, new york, moscow, hamburg",
+drip capital,lender,focus is on SME exporters and importers. no sg office,Alternative Financier,"soft/agricultural, petrochemicals","India, USA, Mexico, global buyers/sellers",
+incomlend,lender,,Alternative Financier,"hard/metals, soft/agricultural","SEA, East/North Asia, Middle East, EU, Americas",
+gxs capital,lender,,Alternative Financier,Unknown,Singapore,
+fs capital,lender,,Alternative Financier,Unknown,"Southeast Asia, with a focus on the ASEAN core of Singapore, Indonesia, Malaysia, Thailand, and Vietnam","new & novel engineering, the daily cut, vyas engineering"
+ifs capital,lender,,Alternative Financier,Unknown,"SG, Thailand, Malaysia, Indonesia, Hong Kong",
+straits financial services,lender,,Alternative Financier,"energy, hard/metals, soft/agricultural","SG, USA, Indonesia, China, UAE",
+gb helios,lender,,Alternative Financier,energy,SG,
+nomura securities singapore,lender,,Alternative Financier,"energy, hard/metals, soft/agricultural","APAC, EU, Middle East, Americas",
+adm capital,lender,,Alternative Financier,soft/agricultural,"Indonesia, SEA, APAC, North America, EU, AUS, NZ",
+hong leong finance,lender,,Alternative Financier,Unknown,SG,
+eastvine capital,lender,MAS‑licensed fund manager operating a commodity trade finance fund. all borrowers are in the commodity value chain (perplexity),Alternative Financier,"energy, hard/metals, soft/agricultural",APAC,
+sing investments & finance,lender,,Alternative Financier,Unknown,SG,
+zma smart capital,lender,UEN: 201914167G,Alternative Financier,others,"SG, Asia",
+mufg trading singapore,lender,"Structured‑trade trading company (not a bank), 100% owned by MUFG Trading, Ltd. (Japan) (perplexity)",Alternative Financier,"energy, hard/metals","SG, Global",
+orix leasing singapore,lender,Non‑bank finance company focused on leasing and asset‑based financing for SMEs/corporates in Singapore. (perplexity),Alternative Financier,Unknown,"SG, SEA",
+capital match platform,lender,,Alternative Financier,Unknown,SG,
+seatown holdings,lender,,Alternative Financier,Unknown,APAC,
+modifi asia,lender,,Alternative Financier,Unknown,"Europe, Asia, the Middle East and North America",
+stonex financial,lender,,Alternative Financier,"energy, hard/metals, soft/agricultural","APAC, Americas, EU, Middle East",
+horizon capital ag singapore rep,lender,"SG address: 6 Battery Road, Level 42, Singapore 049909 (https://horizoncap.ch/)",Alternative Financier,"energy, hard/metals, soft/agricultural","Europe, Asia and North America",
+hartree partners singapore,lender,,Alternative Financier,"energy, hard/metals",Global,
+traxys singapore,"trader, lender","sg address: Traxys Singapore Pte Ltd, 73 Tras Street #04-01, SINGAPORE , 079012 (https://www.traxys.com/locations)",Alternative Financier,"energy, hard/metals",Global,
+freepoint commodities singapore,lender,,Alternative Financier,"energy, hard/metals, soft/agricultural, emerging",Global,the prax group

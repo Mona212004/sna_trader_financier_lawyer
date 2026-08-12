@@ -1,0 +1,170 @@
+From,To,Direction,Type
+trafigura beheer bv,trafigura group,directed,owns
+trafigura group,trafigura carbon trading,directed,owns
+trafigura group,trafigura maritime logistics,directed,owns
+vitol group,vitol asia,directed,owns
+mercuria energy group,mercuria energy trading,directed,owns
+mercuria energy group,mercuria holdings,directed,owns
+gunvor group,gunvor singapore,directed,owns
+olam group,olam food ingredients,directed,owns
+olam group,olam agri holdings,directed,owns
+louis dreyfus company,louis dreyfus company asia,directed,owns
+cofco international,cofco international singapore,directed,owns
+glencore,glencore singapore,directed,owns
+mitsui & co,mitsui & co energy trading singapore (mets),directed,owns
+shell singapore,shell eastern trading,directed,owns
+sinopec,unipec singapore,directed,owns
+sinopec,sinopec international,directed,owns
+sinopec,sinopec international singapore,directed,owns
+sinopec,sinopec fuel oil,directed,owns
+petrochina international,petrochina international singapore,directed,owns
+sinar mas group,golden agri international,directed,owns
+standard chartered,standard chartered bank singapore scb,directed,owns
+ed&f man capital,ed&f man capital markets singapore,directed,owns
+wilmar international,wilmar sugar,directed,owns
+cargill,cargill asia pacific holdings,directed,owns
+bunge,bunge asia,directed,owns
+trafigura group,lex oil,directed,lends_to
+trafigura group,develop global,directed,lends_to
+trafigura group,woodlawn mine holdings,directed,lends_to
+trafigura group,tarago operations,directed,lends_to
+gunvor group,amaroq,directed,lends_to
+vitol group,uganda national oil unoc,directed,lends_to
+glencore,katanga mining,directed,lends_to
+mercuria energy trading,kipushi corporation sa,directed,lends_to
+mercuria energy trading,vast resources,directed,lends_to
+reed smith,china merchants energy shipping holding singapore,directed,counsels_for
+reed smith,sinopec,directed,counsels_for
+reed smith,trafigura maritime logistics,directed,counsels_for
+reed smith,uniper global commodities se singapore branch,directed,counsels_for
+holman fenwick willan hfw,bgn energy,directed,counsels_for
+holman fenwick willan hfw,equatorial marine fuel management services,directed,counsels_for
+holman fenwick willan hfw,mitsui & co energy trading singapore mets,directed,counsels_for
+clyde & co,ed&f man capital markets singapore,directed,counsels_for
+stephenson harwood,icici bank singapore branch,directed,counsels_for
+stephenson harwood,olam group,directed,counsels_for
+stephenson harwood,trafigura group,directed,counsels_for
+watson farley & williams,bw energy holdings,directed,counsels_for
+watson farley & williams,hsbc singapore entities,directed,counsels_for
+watson farley & williams,trafigura group,directed,counsels_for
+ince & co singapore,glory bulk carriers,directed,counsels_for
+ince & co singapore,tai chong cheang shipping singapore,directed,counsels_for
+norton rose fulbright,louis dreyfus company asia,directed,counsels_for
+baker mckenzie,shell eastern trading,directed,counsels_for
+baker mckenzie,shell singapore,directed,counsels_for
+hill dickinson,trafigura group,directed,counsels_for
+latham & watkins llp,ocean network express,directed,counsels_for
+rajah & tann,sinopec international singapore,directed,counsels_for
+rajah & tann,sumifru singapore,directed,counsels_for
+allen & gledhill,bts tankers,directed,counsels_for
+allen & gledhill,dbs bank,directed,counsels_for
+allen & gledhill,jsw international tradecorp jsw,directed,counsels_for
+allen & gledhill,oversea-chinese banking corporation ocbc,directed,counsels_for
+allen & gledhill,st telemedia global data centres,directed,counsels_for
+allen & gledhill,united overseas bank uob,directed,counsels_for
+drew & napier,metro holdings,directed,counsels_for
+drew & napier,razer,directed,counsels_for
+wongpartnership,dbs bank,directed,counsels_for
+wongpartnership,first resources,directed,counsels_for
+wongpartnership,first sponsor group,directed,counsels_for
+helmsman llc,straits bunkering,directed,counsels_for
+helmsman llc,united overseas bank uob,directed,counsels_for
+blackstone & gold,alvari,directed,counsels_for
+blackstone & gold,avani resources,directed,counsels_for
+braddell brothers llp,bafco singapore,directed,counsels_for
+braddell brothers llp,basf intertrade ag singapore branch,directed,counsels_for
+braddell brothers llp,the singapore medical council smc,directed,counsels_for
+joseph tan jude benny llp,fti consulting singapore,directed,counsels_for
+dentons rodyk & davidson llp,boustead projects,directed,counsels_for
+dentons rodyk & davidson llp,oversea-chinese banking corporation ocbc,directed,counsels_for
+dentons rodyk & davidson llp,thomson medical group tmg,directed,counsels_for
+oon & bazul llc,oversea-chinese banking corporation ocbc,directed,counsels_for
+oon & bazul llc,winson oil trading,directed,counsels_for
+pdlegal llc,louis dreyfus company asia,directed,counsels_for
+shook lin & bok llp,standard chartered bank singapore scb,directed,counsels_for
+tsmp law corporation,halcyon agri corporation,directed,counsels_for
+tsmp law corporation,ho lee construction,directed,counsels_for
+tsmp law corporation,kpmg,directed,counsels_for
+tsmp law corporation,mizuho bank,directed,counsels_for
+tsmp law corporation,perennial real estate holdings,directed,counsels_for
+tsmp law corporation,seraya energy,directed,counsels_for
+tsmp law corporation,westbridge ventures ii investment holdings,directed,counsels_for
+virtus law llp,standard chartered bank singapore scb,directed,counsels_for
+dennismathiew,atlantic navigation holdings singapore,directed,counsels_for
+dennismathiew,royal global exports,directed,counsels_for
+asialegal llc,louis dreyfus company asia,directed,counsels_for
+haridass ho & partners,marina offshore,directed,counsels_for
+pk wong & nair llc,maybank singapore,directed,counsels_for
+pk wong & nair llc,petrochina international singapore,directed,counsels_for
+providence law asia llc,gp global apac,directed,counsels_for
+providence law asia llc,gtp advisory pac,directed,counsels_for
+providence law asia llc,pricewaterhousecoopers pwc singapore,directed,counsels_for
+lvm law chambers llc,cye,directed,counsels_for
+lvm law chambers llc,grabtaxi holdings,directed,counsels_for
+lvm law chambers llc,ms first capital insurance,directed,counsels_for
+lvm law chambers llc,unipec singapore,directed,counsels_for
+lvm law chambers llc,united overseas bank uob,directed,counsels_for
+lvm law chambers llc,winson oil trading,directed,counsels_for
+incisive law llc,argoglobal underwriting asia pacific,directed,counsels_for
+incisive law llc,china taiping insurance singapore,directed,counsels_for
+incisive law llc,great american insurance company,directed,counsels_for
+incisive law llc,ms first capital insurance,directed,counsels_for
+incisive law llc,qbe insurance singapore,directed,counsels_for
+focus law asia llc,maersk tankers singapore,directed,counsels_for
+ing,glencore,directed,lends_to
+ing,gunvor group,directed,lends_to
+ing,trafigura group,directed,lends_to
+ing,vitol group,directed,lends_to
+standard chartered,glencore,directed,lends_to
+standard chartered,marubeni corporation,directed,lends_to
+standard chartered,seatrium,directed,lends_to
+standard chartered,trafigura group,directed,lends_to
+dbs bank,agrocorp international,directed,lends_to
+dbs bank,louis dreyfus company,directed,lends_to
+dbs bank,rio tinto,directed,lends_to
+dbs bank,trafigura group,directed,lends_to
+dbs bank,wilmar international,directed,lends_to
+united overseas bank uob,barramundi group,directed,lends_to
+united overseas bank uob,cargill,directed,lends_to
+united overseas bank uob,musim mas holdings,directed,lends_to
+united overseas bank uob,sinar mas group,directed,lends_to
+united overseas bank uob,wilmar international,directed,lends_to
+mufg,bunge,directed,lends_to
+mufg,cofco international,directed,lends_to
+mufg,gunvor group,directed,lends_to
+mufg,mercuria,directed,lends_to
+mufg,six one commodities,directed,lends_to
+mufg,trafigura group,directed,lends_to
+smbc,cofco international,directed,lends_to
+smbc,gunvor group,directed,lends_to
+smbc,louis dreyfus company,directed,lends_to
+smbc,mercuria energy group,directed,lends_to
+smbc,olam food ingredients,directed,lends_to
+smbc,rio tinto,directed,lends_to
+smbc,trafigura group,directed,lends_to
+smbc,vale,directed,lends_to
+smbc,vitol group,directed,lends_to
+smbc,wilmar international,directed,lends_to
+credit agricole,cofco international,directed,lends_to
+credit agricole,gunvor group,directed,lends_to
+credit agricole,mercuria energy group,directed,lends_to
+credit agricole,trafigura group,directed,lends_to
+credit agricole,vitol group,directed,lends_to
+hsbc,glencore,directed,lends_to
+hsbc,gunvor group,directed,lends_to
+hsbc,olam agri holdings,directed,lends_to
+hsbc,sinar mas group,directed,lends_to
+hsbc,vitol group,directed,lends_to
+natixis,cofco international,directed,lends_to
+natixis,gunvor group,directed,lends_to
+natixis,trafigura group,directed,lends_to
+natixis,vitol group,directed,lends_to
+bank of china singapore branch,unipec singapore,directed,lends_to
+china construction bank singapore branch,trafigura group,directed,lends_to
+icbc singapore branch,trafigura group,directed,lends_to
+agricultural bank of china singapore branch,trafigura beheer bv,directed,lends_to
+mufg bank singapore branch,mercuria energy trading,directed,lends_to
+fs capital,new & novel engineering,directed,lends_to
+fs capital,the daily cut,directed,lends_to
+fs capital,vyas engineering,directed,lends_to
+freepoint commodities singapore,the prax group,directed,lends_to
