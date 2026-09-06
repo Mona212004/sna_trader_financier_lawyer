@@ -11,7 +11,7 @@ olam group,olam agri holdings,directed,owns
 louis dreyfus company,louis dreyfus company asia,directed,owns
 cofco international,cofco international singapore,directed,owns
 glencore,glencore singapore,directed,owns
-mitsui & co,mitsui & co energy trading singapore (mets),directed,owns
+mitsui & co,mitsui & co energy trading singapore mets,directed,owns
 shell singapore,shell eastern trading,directed,owns
 sinopec,unipec singapore,directed,owns
 sinopec,sinopec international,directed,owns
@@ -168,3 +168,4 @@ fs capital,new & novel engineering,directed,lends_to
 fs capital,the daily cut,directed,lends_to
 fs capital,vyas engineering,directed,lends_to
 freepoint commodities singapore,the prax group,directed,lends_to
+hsbc,hsbc singapore entities,directed,owns
