@@ -1,0 +1,296 @@
+Label,Type,In-degree,Out-degree,Betweenness,PageRank,Constraint
+bgn energy,others,0.0034,0.0,0.0,0.0055,1.0
+vale,others,0.0034,0.0,0.0,0.0047,1.0
+westpac banking corporation singapore branch,lender,0.0,0.0,0.0,,
+bbva singapore branch,trader,0.0,0.0,0.0,,
+katanga mining,others,0.0034,0.0,0.0,0.0071,1.0
+the straits international,trader,0.0,0.0,0.0,,
+oilmar sgp,"trader, lender",0.0,0.0,0.0,,
+adm capital,lawyer,0.0,0.0,0.0,,
+adaro international,others,0.0,0.0,0.0,,
+sumifru singapore,lender,0.0034,0.0,0.0,0.0061,1.0
+archer-daniels-midland singapore,lender,0.0,0.0,0.0,,
+bunge,lender,0.0034,0.0034,0.0,0.0049,0.5
+ho lee construction,lawyer,0.0034,0.0,0.0,0.0048,1.0
+ms first capital insurance,trader,0.0068,0.0,0.0,0.0056,0.5
+st telemedia global data centres,trader,0.0034,0.0,0.0,0.0049,1.0
+grabtaxi holdings,lender,0.0034,0.0,0.0,0.0049,1.0
+ing,others,0.0,0.0136,0.0,0.0043,0.25
+petrochina international,trader,0.0,0.0034,0.0,0.0043,1.0
+rajah & tann,lawyer,0.0,0.0068,0.0,0.0043,0.5
+cemcoa energy,lender,0.0,0.0,0.0,,
+dennismathiew,"trader, lender",0.0,0.0068,0.0,0.0043,0.5
+societe generale,others,0.0,0.0,0.0,,
+pacific minerals,lawyer,0.0,0.0,0.0,,
+bnp paribas,trader,0.0,0.0,0.0,,
+dkc steel singapore,trader,0.0,0.0,0.0,,
+argoglobal underwriting asia pacific,"trader, lender",0.0034,0.0,0.0,0.005,1.0
+glory bulk carriers,trader,0.0034,0.0,0.0,0.0061,1.0
+quantum global,trader,0.0,0.0,0.0,,
+woodlawn mine holdings,lawyer,0.0034,0.0,0.0,0.0085,1.0
+rhb bank berhad singapore branch,lender,0.0,0.0,0.0,,
+hartree partners singapore,lawyer,0.0,0.0,0.0,,
+barramundi group,trader,0.0034,0.0,0.0,0.0055,1.0
+providence law asia llc,trader,0.0,0.0102,0.0,0.0043,0.3333
+wogen south east asia,lawyer,0.0,0.0,0.0,,
+cargill,others,0.0034,0.0034,0.0,0.0055,0.5
+straits financial services,trader,0.0,0.0,0.0,,
+maersk tankers singapore,others,0.0034,0.0,0.0,0.0079,1.0
+glencore singapore,lawyer,0.0034,0.0,0.0,0.0071,1.0
+sahara energy international,lawyer,0.0,0.0,0.0,,
+jpmorgan chase bank singapore branch,trader,0.0,0.0,0.0,,
+stonex financial,trader,0.0,0.0,0.0,,
+thomson medical group tmg,trader,0.0034,0.0,0.0,0.0055,1.0
+rawsteel minmetals,lender,0.0,0.0,0.0,,
+chalco trading singapore,lawyer,0.0,0.0,0.0,,
+petrochina international singapore,others,0.0068,0.0,0.0,0.0098,0.5
+develop global,lawyer,0.0034,0.0,0.0,0.0085,1.0
+vast resources,others,0.0034,0.0,0.0,0.0086,1.0
+agrocorp international,trader,0.0034,0.0,0.0,0.0053,1.0
+glencore,others,0.0102,0.0068,0.0001,0.0065,0.2
+sucden financial,others,0.0,0.0,0.0,,
+straits bunkering,lawyer,0.0034,0.0,0.0,0.0061,1.0
+citic commodities,others,0.0,0.0,0.0,,
+om materials,others,0.0,0.0,0.0,,
+new & novel engineering,lender,0.0034,0.0,0.0,0.0055,1.0
+cargill asia pacific holdings,trader,0.0034,0.0,0.0,0.009,1.0
+pdlegal llc,others,0.0,0.0034,0.0,0.0043,1.0
+sinopec international,trader,0.0034,0.0,0.0,0.0054,1.0
+trafigura carbon trading,trader,0.0034,0.0,0.0,0.0085,1.0
+state bank of india singapore branch,others,0.0,0.0,0.0,,
+gxs capital,trader,0.0,0.0,0.0,,
+drip capital,lender,0.0,0.0,0.0,,
+royal global exports,trader,0.0034,0.0,0.0,0.0061,1.0
+united overseas bank uob,trader,0.0102,0.017,0.0003,0.0073,0.125
+mitsui & co,trader,0.0,0.0034,0.0,0.0043,1.0
+itochu singapore,lender,0.0,0.0,0.0,,
+sinopec fuel oil,trader,0.0034,0.0,0.0,0.0054,1.0
+asialegal llc,trader,0.0,0.0034,0.0,0.0043,1.0
+dz bank ag singapore branch,trader,0.0,0.0,0.0,,
+mercuria holdings,trader,0.0034,0.0,0.0,0.0066,1.0
+marina offshore,lender,0.0034,0.0,0.0,0.0079,1.0
+maybank singapore,trader,0.0034,0.0,0.0,0.0061,1.0
+samsung c&t singapore,trader,0.0,0.0,0.0,,
+meridian equities,lender,0.0,0.0,0.0,,
+mayer brown llp,others,0.0,0.0,0.0,,
+bp singapore,trader,0.0,0.0,0.0,,
+swan international holding,others,0.0,0.0,0.0,,
+cimb bank berhad singapore branch,trader,0.0,0.0,0.0,,
+ifs capital,trader,0.0,0.0,0.0,,
+ince & co singapore,trader,0.0,0.0068,0.0,0.0043,0.5
+christopher lau sc,others,0.0,0.0,0.0,,
+ed&f man capital,trader,0.0,0.0034,0.0,0.0043,1.0
+lvm law chambers llc,lawyer,0.0,0.0204,0.0,0.0043,0.1667
+uniper global commodities se singapore branch,lawyer,0.0034,0.0,0.0,0.0052,1.0
+sinopec international singapore,trader,0.0068,0.0,0.0,0.0072,0.5
+mercuria energy trading,lawyer,0.0068,0.0068,0.0001,0.0102,0.25
+gce agri,others,0.0,0.0,0.0,,
+wongpartnership,others,0.0,0.0102,0.0,0.0043,0.3333
+louis dreyfus company asia,others,0.0136,0.0,0.0,0.0201,0.25
+seatrium,lawyer,0.0034,0.0,0.0,0.005,1.0
+audentia,others,0.0,0.0,0.0,,
+sojitz asia,others,0.0,0.0,0.0,,
+lex oil,lawyer,0.0034,0.0,0.0,0.0085,1.0
+macquarie bank singapore branch,trader,0.0,0.0,0.0,,
+halcyon agri corporation,lawyer,0.0034,0.0,0.0,0.0048,1.0
+six one commodities,trader,0.0034,0.0,0.0,0.0049,1.0
+olam food ingredients,trader,0.0068,0.0,0.0,0.007,0.5
+summit energy & resources,lawyer,0.0,0.0,0.0,,
+modifi asia,others,0.0,0.0,0.0,,
+agricultural bank of china singapore branch,others,0.0,0.0034,0.0,0.0043,1.0
+oversea-chinese banking corporation ocbc,lawyer,0.0102,0.0,0.0,0.0079,0.3333
+nala renewables,others,0.0,0.0,0.0,,
+virtus law llp,lender,0.0,0.0034,0.0,0.0043,1.0
+equatorial marine fuel management services,others,0.0034,0.0,0.0,0.0055,1.0
+noble resources international,others,0.0,0.0,0.0,,
+fti consulting singapore,others,0.0034,0.0,0.0,0.0079,1.0
+bank of china singapore branch,trader,0.0,0.0034,0.0,0.0043,1.0
+bts tankers,lawyer,0.0034,0.0,0.0,0.0049,1.0
+pertamina international marketing & distribution,others,0.0,0.0,0.0,,
+shook lin & bok llp,others,0.0,0.0034,0.0,0.0043,1.0
+vitol group,lawyer,0.017,0.0068,0.0001,0.0078,0.1429
+tarago operations,others,0.0034,0.0,0.0,0.0085,1.0
+tradeflow capital,trader,0.0,0.0,0.0,,
+credit agricole,others,0.0,0.017,0.0,0.0043,0.2
+eastvine capital,others,0.0,0.0,0.0,,
+avani resources,lawyer,0.0034,0.0,0.0,0.0061,1.0
+malayan banking berhad singapore,trader,0.0,0.0,0.0,,
+great american insurance company,trader,0.0034,0.0,0.0,0.005,1.0
+kz trading singapore,others,0.0,0.0,0.0,,
+helm asia,others,0.0,0.0,0.0,,
+sino gas holdings,lawyer,0.0,0.0,0.0,,
+mitsubishi corporation rtm international,others,0.0,0.0,0.0,,
+alvari,others,0.0034,0.0,0.0,0.0061,1.0
+mercore,others,0.0,0.0,0.0,,
+interchem manufacturing,lawyer,0.0,0.0,0.0,,
+first sponsor group,lender,0.0034,0.0,0.0,0.0055,1.0
+standard chartered,others,0.0,0.017,0.0,0.0043,0.2
+gp global apac,others,0.0034,0.0,0.0,0.0055,1.0
+musim mas holdings,others,0.0034,0.0,0.0,0.0055,1.0
+sing investments & finance,lawyer,0.0,0.0,0.0,,
+drew & napier,trader,0.0,0.0068,0.0,0.0043,0.5
+vinmar overseas,lawyer,0.0,0.0,0.0,,
+agrex asia,lawyer,0.0,0.0,0.0,,
+copap,trader,0.0,0.0,0.0,,
+damodara ong llc,lender,0.0,0.0,0.0,,
+dbs bank,lender,0.0068,0.017,0.0003,0.0061,0.1429
+capital match platform,others,0.0,0.0,0.0,,
+trafigura group,trader,0.0442,0.0204,0.0011,0.0297,0.0526
+woodside energy australia asia holdings,lender,0.0,0.0,0.0,,
+razer,others,0.0034,0.0,0.0,0.0061,1.0
+aditya birla global trading,others,0.0,0.0,0.0,,
+olam group,lender,0.0034,0.0068,0.0,0.0055,0.3333
+pk wong & nair llc,trader,0.0,0.0068,0.0,0.0043,0.5
+kipushi corporation sa,trader,0.0034,0.0,0.0,0.0086,1.0
+natixis,trader,0.0,0.0136,0.0,0.0043,0.25
+shanghai pudong development bank spdb singapore branch,trader,0.0,0.0,0.0,,
+hsbc,trader,0.0,0.0204,0.0,0.0043,0.1667
+uganda national oil unoc,trader,0.0034,0.0,0.0,0.0076,1.0
+aaa oils & fats,lawyer,0.0,0.0,0.0,,
+totalenergies trading asia,others,0.0,0.0,0.0,,
+holman fenwick willan hfw,others,0.0,0.0102,0.0,0.0043,0.3333
+nomura securities singapore,lender,0.0,0.0,0.0,,
+sumitomo corporation asia & oceania,others,0.0,0.0,0.0,,
+reed smith,lender,0.0,0.0136,0.0,0.0043,0.25
+commerzbank ag singapore branch,trader,0.0,0.0,0.0,,
+seraya energy,lender,0.0034,0.0,0.0,0.0048,1.0
+straits energy resources bhd,lender,0.0,0.0,0.0,,
+unifood international,lawyer,0.0,0.0,0.0,,
+oriental energy,lawyer,0.0,0.0,0.0,,
+pricewaterhousecoopers pwc singapore,trader,0.0034,0.0,0.0,0.0055,1.0
+the daily cut,lender,0.0034,0.0,0.0,0.0055,1.0
+ptt international trading,trader,0.0,0.0,0.0,,
+unipec singapore,others,0.0102,0.0,0.0,0.0097,0.3333
+mri group,lawyer,0.0,0.0,0.0,,
+triland metals singapore,,0.0,0.0,0.0,,
+gerald singapore,,0.0,0.0,0.0,,
+mahkota oils & fats,,0.0,0.0,0.0,,
+hill dickinson,,0.0,0.0034,0.0,0.0043,1.0
+hong leong finance,,0.0,0.0,0.0,,
+cofco international singapore,,0.0034,0.0,0.0,0.0102,1.0
+incisive law llc,,0.0,0.017,0.0,0.0043,0.2
+norton rose fulbright,,0.0,0.0034,0.0,0.0043,1.0
+bary chemical,,0.0,0.0,0.0,,
+deutsche bank ag singapore branch,,0.0,0.0,0.0,,
+china taiping insurance singapore,,0.0034,0.0,0.0,0.005,1.0
+gs global singapore,,0.0,0.0,0.0,,
+oon & bazul llc,,0.0,0.0068,0.0,0.0043,0.5
+fs capital,,0.0,0.0102,0.0,0.0043,0.3333
+cipta commodity trading,,0.0,0.0,0.0,,
+vitol asia,,0.0034,0.0,0.0,0.0076,1.0
+hg metal manufacturing,,0.0,0.0,0.0,,
+mufg trading singapore,,0.0,0.0,0.0,,
+bafco singapore,,0.0034,0.0,0.0,0.0055,1.0
+petraco oil company,,0.0,0.0,0.0,,
+incomlend,,0.0,0.0,0.0,,
+mizuho bank,,0.0034,0.0,0.0,0.0048,1.0
+focus law asia llc,,0.0,0.0034,0.0,0.0043,1.0
+gunvor group,,0.0204,0.0068,0.0001,0.0084,0.125
+gill arbitration services,,0.0,0.0,0.0,,
+joseph tan jude benny llp,,0.0,0.0034,0.0,0.0043,1.0
+goldman sachs singapore branch,,0.0,0.0,0.0,,
+cofco international,,0.0136,0.0034,0.0,0.0069,0.2
+ossiano,,0.0,0.0,0.0,,
+ginga petroleum,,0.0,0.0,0.0,,
+citibank singapore,,0.0,0.0,0.0,,
+sinopec,,0.0034,0.0136,0.0,0.0052,0.2
+concord energy,,0.0,0.0,0.0,,
+cye,,0.0034,0.0,0.0,0.0049,1.0
+jfe shoji corporation,,0.0,0.0,0.0,,
+pacific basin sg,,0.0,0.0,0.0,,
+rio tinto,,0.0068,0.0,0.0,0.0057,0.5
+gunvor singapore,,0.0034,0.0,0.0,0.0079,1.0
+banpu minerals singapore,,0.0,0.0,0.0,,
+traxys singapore,,0.0,0.0,0.0,,
+resource law llc,,0.0,0.0,0.0,,
+bw energy holdings,,0.0034,0.0,0.0,0.0055,1.0
+hd hyundai oil singapore,,0.0,0.0,0.0,,
+bunge asia,,0.0034,0.0,0.0,0.0085,1.0
+tsmp law corporation,,0.0,0.0238,0.0,0.0043,0.1429
+mufg bank singapore branch,,0.0,0.0034,0.0,0.0043,1.0
+shell singapore,,0.0034,0.0034,0.0,0.0061,1.125
+louis dreyfus company,,0.0068,0.0034,0.0,0.0057,0.3333
+jsw international tradecorp jsw,,0.0034,0.0,0.0,0.0049,1.0
+westbridge ventures ii investment holdings,,0.0034,0.0,0.0,0.0048,1.0
+zma smart capital,,0.0,0.0,0.0,,
+aavanti industries,,0.0,0.0,0.0,,
+trafigura beheer bv,,0.0034,0.0034,0.0001,0.0079,0.5
+metro holdings,,0.0034,0.0,0.0,0.0061,1.0
+gtp advisory pac,,0.0034,0.0,0.0,0.0055,1.0
+bank of east asia bea singapore branch,,0.0,0.0,0.0,,
+mercuria,,0.0034,0.0,0.0,0.0049,1.0
+posco international singapore,,0.0,0.0,0.0,,
+socar trading singapore,,0.0,0.0,0.0,,
+braddell brothers llp,,0.0,0.0102,0.0,0.0043,0.3333
+first resources,,0.0034,0.0,0.0,0.0055,1.0
+wilmar international,,0.0102,0.0034,0.0001,0.0069,0.25
+golden agri international,,0.0034,0.0,0.0,0.0095,1.0
+dentons rodyk & davidson llp,,0.0,0.0102,0.0,0.0043,0.3333
+shell eastern trading,,0.0068,0.0,0.0,0.0113,1.125
+atlantic navigation holdings singapore,,0.0034,0.0,0.0,0.0061,1.0
+watson farley & williams,,0.0,0.0102,0.0,0.0043,0.3333
+hyundai corporation singapore,,0.0,0.0,0.0,,
+ixm,,0.0,0.0,0.0,,
+indofood agri resources,,0.0,0.0,0.0,,
+bank of america singapore branch,,0.0,0.0,0.0,,
+allen & gledhill,,0.0,0.0204,0.0,0.0043,0.1667
+kpmg,,0.0034,0.0,0.0,0.0048,1.0
+lx international,,0.0,0.0,0.0,,
+toyota tsusho asia pacific,,0.0,0.0,0.0,,
+anz bank singapore branch,,0.0,0.0,0.0,,
+tata international singapore,,0.0,0.0,0.0,,
+davis commodities,,0.0,0.0,0.0,,
+sk energy international,,0.0,0.0,0.0,,
+idemitsu international,,0.0,0.0,0.0,,
+haridass ho & partners,,0.0,0.0034,0.0,0.0043,1.0
+sinar mas group,,0.0068,0.0034,0.0001,0.0061,0.3333
+basf intertrade ag singapore branch,,0.0034,0.0,0.0,0.0055,1.0
+mercuria energy group,,0.0068,0.0068,0.0001,0.0054,0.25
+the prax group,,0.0034,0.0,0.0,0.0079,1.0
+latham & watkins llp,,0.0,0.0034,0.0,0.0043,1.0
+eneos oil & energy asia,,0.0,0.0,0.0,,
+amaroq,,0.0034,0.0,0.0,0.0079,1.0
+ed&f man capital markets singapore,,0.0068,0.0,0.0,0.0116,0.5
+century commodities solution,,0.0,0.0,0.0,,
+commonwealth bank of australia cba singapore branch,,0.0,0.0,0.0,,
+orix leasing singapore,,0.0,0.0,0.0,,
+gb helios,,0.0,0.0,0.0,,
+wilmar sugar,,0.0034,0.0,0.0,0.0102,1.0
+national australia bank nab singapore branch,,0.0,0.0,0.0,,
+sinochem international oil,,0.0,0.0,0.0,,
+squire patton boggs,,0.0,0.0,0.0,,
+blackstone & gold,,0.0,0.0068,0.0,0.0043,0.5
+dunbar & lim chambers llc,,0.0,0.0,0.0,,
+czarnikow,,0.0,0.0,0.0,,
+clyde & co,,0.0,0.0034,0.0,0.0043,1.0
+freepoint commodities singapore,,0.0,0.0034,0.0,0.0043,1.0
+hsbc singapore entities,,0.0068,0.0,0.0,0.0061,0.5
+smbc,,0.0,0.034,0.0,0.0043,0.1
+winson oil trading,,0.0068,0.0,0.0,0.0067,0.5
+pacific energy,,0.0,0.0,0.0,,
+icici bank singapore branch,,0.0034,0.0,0.0,0.0055,1.0
+qbe insurance singapore,,0.0034,0.0,0.0,0.005,1.0
+cosmo oil international,,0.0,0.0,0.0,,
+horizon capital ag singapore rep,,0.0,0.0,0.0,,
+mufg,,0.0,0.0204,0.0,0.0043,0.1667
+ocean network express,,0.0034,0.0,0.0,0.0079,1.0
+icbc singapore branch,,0.0,0.0034,0.0,0.0043,1.0
+china construction bank singapore branch,,0.0,0.0034,0.0,0.0043,1.0
+vyas engineering,,0.0034,0.0,0.0,0.0055,1.0
+marubeni corporation,,0.0034,0.0,0.0,0.005,1.0
+stephenson harwood,,0.0,0.0102,0.0,0.0043,0.3333
+baker mckenzie,,0.0,0.0068,0.0,0.0043,1.125
+the singapore medical council smc,,0.0034,0.0,0.0,0.0055,1.0
+seatown holdings,,0.0,0.0,0.0,,
+olam agri holdings,,0.0068,0.0,0.0,0.0072,0.5
+trimex group,,0.0,0.0,0.0,,
+rabobank,,0.0,0.0,0.0,,
+trafigura maritime logistics,,0.0068,0.0,0.0,0.0094,0.5
+perennial real estate holdings,,0.0034,0.0,0.0,0.0048,1.0
+mitsui & co energy trading singapore mets,,0.0068,0.0,0.0,0.0092,0.5
+china merchants energy shipping holding singapore,,0.0034,0.0,0.0,0.0052,1.0
+tai chong cheang shipping singapore,,0.0034,0.0,0.0,0.0061,1.0
+standard chartered bank singapore scb,,0.0102,0.0,0.0,0.0123,0.3333
+sd guthrie international,,0.0,0.0,0.0,,
+boustead projects,,0.0034,0.0,0.0,0.0055,1.0
+helmsman llc,,0.0,0.0068,0.0,0.0043,0.5

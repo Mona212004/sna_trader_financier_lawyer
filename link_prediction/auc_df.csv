@@ -1,0 +1,26 @@
+run,relation,auc
+1,"('lawyer', 'counsels_for', 'lender')",0.5
+1,"('lawyer', 'counsels_for', 'others')",0.888888888888889
+1,"('lawyer', 'counsels_for', 'trader')",0.5
+1,"('lender', 'lends_to', 'trader')",0.78125
+1,"('trader', 'owns', 'trader')",0.5
+2,"('lawyer', 'counsels_for', 'lender')",1.0
+2,"('lawyer', 'counsels_for', 'others')",1.0
+2,"('lawyer', 'counsels_for', 'trader')",0.375
+2,"('lender', 'lends_to', 'trader')",0.84375
+2,"('trader', 'owns', 'trader')",0.75
+3,"('lawyer', 'counsels_for', 'lender')",1.0
+3,"('lawyer', 'counsels_for', 'others')",0.888888888888889
+3,"('lawyer', 'counsels_for', 'trader')",0.5
+3,"('lender', 'lends_to', 'trader')",0.875
+3,"('trader', 'owns', 'trader')",0.625
+4,"('lawyer', 'counsels_for', 'lender')",0.0
+4,"('lawyer', 'counsels_for', 'others')",1.0
+4,"('lawyer', 'counsels_for', 'trader')",0.625
+4,"('lender', 'lends_to', 'trader')",0.8125
+4,"('trader', 'owns', 'trader')",0.5
+5,"('lawyer', 'counsels_for', 'lender')",1.0
+5,"('lawyer', 'counsels_for', 'others')",1.0
+5,"('lawyer', 'counsels_for', 'trader')",0.375
+5,"('lender', 'lends_to', 'trader')",0.78125
+5,"('trader', 'owns', 'trader')",0.375

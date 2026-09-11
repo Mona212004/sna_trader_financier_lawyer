@@ -1,0 +1,13 @@
+relation,head,tail,rank_run1,rank_run2,rank_run3,rank_run4,rank_run5
+"('lawyer', 'counsels_for', 'lender')",16,7,54.0,12.0,46.0,65.0,10.0
+"('lawyer', 'counsels_for', 'others')",24,27,5.0,5.0,5.0,5.0,5.0
+"('lawyer', 'counsels_for', 'others')",30,22,5.0,5.0,5.0,5.0,5.0
+"('lawyer', 'counsels_for', 'others')",34,24,36.0,20.0,35.0,31.0,26.0
+"('lawyer', 'counsels_for', 'trader')",9,0,20.0,98.0,46.0,59.0,98.0
+"('lawyer', 'counsels_for', 'trader')",34,57,107.0,122.0,124.0,118.0,123.0
+"('lender', 'lends_to', 'trader')",5,5,9.0,3.0,4.0,4.0,5.0
+"('lender', 'lends_to', 'trader')",5,19,26.0,27.0,31.0,26.0,27.0
+"('lender', 'lends_to', 'trader')",12,125,6.0,5.0,5.0,5.0,7.0
+"('lender', 'lends_to', 'trader')",18,129,73.0,50.0,39.0,73.0,89.0
+"('trader', 'owns', 'trader')",6,112,83.0,10.0,76.0,64.0,113.0
+"('trader', 'owns', 'trader')",128,2,6.0,3.0,3.0,2.0,7.0

@@ -1,4 +1,4 @@
-label,role,description,financier_type,commodity_type,geographic_reach,known_clients
+Label,Type,Description,financier_type,commodity_type,geographic_reach,known_clients
 ing,lender,,Traditional Bank,energy | hard/metals | soft/agricultural,"EMEA, APAC, Americas","glencore, gunvor group, trafigura group, vitol group"
 societe generale,lender,,Traditional Bank,energy | hard/metals | soft/agricultural,"Primary base , North America, APAC, emerging markets",
 bnp paribas,lender,sep 2020: BNP Paribas Suisse discontinued financing commodity trading and announced restructuring affecting 120 employees in Geneva (perplexity),Traditional Bank,energy | hard/metals | soft/agricultural,"Europe , Americas , APAC, Africa. Global network spans over 100 countries",
