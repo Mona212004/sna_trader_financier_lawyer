@@ -1,6 +1,8 @@
 Collective Metrics,Value
 total_num_nodes,295
-total_num_edges,180
-density,0.0021
+total_num_edges,170
+ave_in_degree,0.002
+ave_out_degree,0.002
+density,0.002
 is_weakly_connected,False
 num_wcc,150
